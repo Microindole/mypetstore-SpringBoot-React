@@ -22,7 +22,7 @@
 
 #### mypetstore-api
 
-​	该项目基于 Spring Boot 和 MyBatis Plus，包含前端静态资源（HTML、CSS、JS）和后端 Java 代码，支持 RESTful API 和管理功能。
+​	该项目基于 Spring Boot 和 MyBatis Plus，支持 RESTful API。
 
 ### `main/` 目录
 
